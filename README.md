@@ -1,4 +1,4 @@
-# py-renamer
+# py-renamer (currently under-development)
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
 )](http://mit-license.org)
 <br>rename multiple files in Windows/MacOS/Linux
